@@ -4,4 +4,4 @@ dist/
 *.log
 .DS_Store
 *.zip
-*.mp4
+*.mp4.npmrc
